@@ -4,6 +4,7 @@ main .hero-container > div {
 
 main .hero-container {
   padding: 0;
+  border: 6px dashed orange
 }
 
 .hero {
